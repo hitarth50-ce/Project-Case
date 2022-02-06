@@ -1,1 +1,2 @@
 # Project-Case
+This is a project case in which the dataset has funding information of the Indian startups from January 2015 to August 2017.Using this dataset I have to find that what type of startups are getting funded in the last few years , who are the important investors and what are the hot fields that get a lot of fundings these days. I took the data set named startup_funding.csv and using numpy, pandas and matplotlib libraries I have done my data cleaning work and then to plot the graph I use matplotlib libraries. I attached my jupyter file also.
